@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/student/Git/myrepo/Laborator02/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/layout/popup_window_authentication_success.xml",
+        "source": "/home/student/Git/myrepo/Laborator02/ActivityLifecycleMonitor/app/src/main/res/layout/popup_window_authentication_success.xml"
+    },
+    {
+        "merged": "/home/student/Git/myrepo/Laborator02/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/layout/activity_lifecycle_monitor.xml",
+        "source": "/home/student/Git/myrepo/Laborator02/ActivityLifecycleMonitor/app/src/main/res/layout/activity_lifecycle_monitor.xml"
+    },
+    {
+        "merged": "/home/student/Git/myrepo/Laborator02/ActivityLifecycleMonitor/app/build/intermediates/res/merged/debug/layout/popup_window_authentication_fail.xml",
+        "source": "/home/student/Git/myrepo/Laborator02/ActivityLifecycleMonitor/app/src/main/res/layout/popup_window_authentication_fail.xml"
+    }
+]
